@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Folder Name="/Solution Items/">
+    <File Path="Task-2-7.txt" />
+  </Folder>
+  <Project Path="Task-2-7-a-en/Task-2-7-a-en.vcxproj" Id="861d2439-0e4b-4aea-b207-7e6ebc0ae63d" />
+  <Project Path="Task-2-7-a-ru/Task-2-7-a-ru.vcxproj" Id="d6f9cf04-0859-4196-9b0e-cf2c27b2f951" />
+  <Project Path="Task-2-7-b-en/Task-2-7-b-en.vcxproj" Id="56479ead-2dff-4ff6-9fe1-08be09982ef8" />
+  <Project Path="Task-2-7-b-ru/Task-2-7-b-ru.vcxproj" Id="5a50a9b5-95e2-4852-9e59-1797d37d0d00" />
+</Solution>
